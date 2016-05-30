@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{E196173D-E5DC-8FC1-4FD1-4139F56AD1A0}") = "crashBugEg", "Assembly-CSharp.csproj", "{231212F9-3FD1-52E8-15A9-18BD3E56B655}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{231212F9-3FD1-52E8-15A9-18BD3E56B655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{231212F9-3FD1-52E8-15A9-18BD3E56B655}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{231212F9-3FD1-52E8-15A9-18BD3E56B655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{231212F9-3FD1-52E8-15A9-18BD3E56B655}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
