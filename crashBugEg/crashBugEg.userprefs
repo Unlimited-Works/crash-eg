@@ -1,10 +1,9 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Functions.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/testFlatMap.cs">
     <Files>
-      <File FileName="Assets/Functions.cs" Line="3" Column="21" />
-      <File FileName="Assets/testFlatMap.cs" Line="10" Column="26" />
-      <File FileName="Assets/Option.cs" Line="3" Column="11" />
+      <File FileName="Assets/testFlatMap.cs" Line="8" Column="7" />
+      <File FileName="Assets/Option.cs" Line="5" Column="31" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

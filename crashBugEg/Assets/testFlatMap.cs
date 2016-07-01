@@ -2,7 +2,7 @@
 using System.Collections;
 using Lorance.RxScoket.Util;
 
-public class testFlatMap : MonoBehaviour {
+public class TestFlatMap : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		Dog d = new Dog ();
